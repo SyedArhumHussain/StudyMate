@@ -1,46 +1,45 @@
 # StudyMate
-StudyMate – AI-Powered Student Portal
+# StudyMate – AI-Powered Student Portal
 
 StudyMate is an AI-powered student portal built with Django + PostgreSQL that helps students study smarter.
 It allows students to upload notes or PDFs, and with the help of Claude AI API, it automatically:
 
-Summarizes study material
+1.Summarizes study material
 
-Extracts key points
+2. Extracts key points
 
-Generates flashcards in Q&A format
+3. Generates flashcards in Q&A format
 
-Provides an interactive AI chatbot for asking questions about uploaded notes
+# Provides an interactive AI chatbot for asking questions about uploaded notes
 
- What StudyMate Does
+1.What StudyMate Does
 
- Upload PDFs, Docs, or text notes
+2. Upload PDFs, Docs, or text notes
 
- AI summarizes content into concise, easy-to-digest notes
+3.AI summarizes content into concise, easy-to-digest notes
 
- Generates flashcards for quick revision
+4. Generates flashcards for quick revision
 
- AI chatbot answers questions from notes (context-aware Q&A)
+5.AI chatbot answers questions from notes (context-aware Q&A)
 
- Store and manage notes, summaries, and flashcards in PostgreSQL
+ 6.Store and manage notes, summaries, and flashcards in PostgreSQL
 
-Personalized student dashboard to track study material
+7.Personalized student dashboard to track study material
 
-Features: 
+# Features: 
 
-User Authentication & Profiles – Secure login and personal dashboards.
+1.User Authentication & Profiles – Secure login and personal dashboards.
 
-Notes Upload & Management – Upload, edit, and store notes/PDFs.
+2.Notes Upload & Management – Upload, edit, and store notes/PDFs.
 
-AI Summarization – Claude API generates summaries & key points.
+3.AI Summarization – Claude API generates summaries & key points.
 
-Flashcard Generator – Auto Q&A flashcards for revision.
+4.Flashcard Generator – Auto Q&A flashcards for revision.
 
-Interactive Chatbot – Ask study questions directly from your notes.
+5.Interactive Chatbot – Ask study questions directly from your notes.
 
-Flashcard Review Mode – Flip cards, quiz mode, and progress tracking.
+6.Flashcard Review Mode – Flip cards, quiz mode, and progress tracking.
 
-Admin Panel – Manage users, notes, and AI-generated content.
 <img width="1894" height="933" alt="image" src="https://github.com/user-attachments/assets/86fc50b9-06ed-4408-9838-9b9d053ecf7e" />
 <img width="598" height="712" alt="image" src="https://github.com/user-attachments/assets/0f336cee-b30c-4738-83f4-e587d56357fe" />
 <img width="1896" height="940" alt="image" src="https://github.com/user-attachments/assets/40059c0d-303a-4809-8031-9ff59fe1e68c" />
@@ -52,3 +51,4 @@ Admin Panel – Manage users, notes, and AI-generated content.
 <img width="1916" height="945" alt="image" src="https://github.com/user-attachments/assets/c090e841-3e7d-451d-af50-c1c676e95962" />
 <img width="1905" height="934" alt="image" src="https://github.com/user-attachments/assets/0fe4c9d8-e74f-4329-be39-47b1e301fd95" />
 <img width="1894" height="630" alt="image" src="https://github.com/user-attachments/assets/54d7faf8-e5fc-4729-a285-caf27a72e9cd" />
+<img width="934" height="750" alt="image" src="https://github.com/user-attachments/assets/2b0e8f57-a7a1-4647-ab75-4e4f00d25585" />
