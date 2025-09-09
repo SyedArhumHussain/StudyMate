@@ -40,6 +40,24 @@ It allows students to upload notes or PDFs, and with the help of Claude AI API, 
 
 6.Flashcard Review Mode – Flip cards, quiz mode, and progress tracking.
 
+# Tools & Technologies Used
+
+Backend Framework: Django, Django REST Framework
+
+Database: PostgreSQL (with JSON & Full-Text Search support)
+
+AI/ML Integration: Claude API (Anthropic) for summarization, flashcards & chatbot
+
+File Processing: PyPDF2 / pdfminer.six for text extraction, Tesseract OCR (optional for scanned notes)
+
+Frontend: Django Templates (or React if you extend it)
+
+Authentication: Django’s built-in auth system
+
+Vector Database (optional): FAISS / ChromaDB for semantic search
+
+Environment Management: Virtualenv / venv
+
 <img width="1894" height="933" alt="image" src="https://github.com/user-attachments/assets/86fc50b9-06ed-4408-9838-9b9d053ecf7e" />
 <img width="598" height="712" alt="image" src="https://github.com/user-attachments/assets/0f336cee-b30c-4738-83f4-e587d56357fe" />
 <img width="1896" height="940" alt="image" src="https://github.com/user-attachments/assets/40059c0d-303a-4809-8031-9ff59fe1e68c" />
